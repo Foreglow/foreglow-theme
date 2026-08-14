@@ -1,0 +1,42 @@
+[submodule "themes/visual-studio-code"]
+	path = themes/visual-studio-code
+	url = https://github.com/Foreglow/visual-studio-code
+[submodule "themes/vim"]
+	path = themes/vim
+	url = https://github.com/Foreglow/vim
+[submodule "themes/jetbrains"]
+	path = themes/jetbrains
+	url = https://github.com/Foreglow/jetbrains
+[submodule "themes/tmux"]
+	path = themes/tmux
+	url = https://github.com/Foreglow/tmux
+[submodule "themes/alacritty"]
+	path = themes/alacritty
+	url = https://github.com/Foreglow/alacritty
+[submodule "themes/kitty"]
+	path = themes/kitty
+	url = https://github.com/Foreglow/kitty
+[submodule "themes/iterm"]
+	path = themes/iterm
+	url = https://github.com/Foreglow/iterm
+[submodule "themes/gnome-terminal"]
+	path = themes/gnome-terminal
+	url = https://github.com/Foreglow/gnome-terminal
+[submodule "themes/windows-terminal"]
+	path = themes/windows-terminal
+	url = https://github.com/Foreglow/windows-terminal
+[submodule "themes/obsidian"]
+	path = themes/obsidian
+	url = https://github.com/Foreglow/obsidian
+[submodule "themes/zed"]
+	path = themes/zed
+	url = https://github.com/Foreglow/zed
+[submodule "themes/firefox"]
+	path = themes/firefox
+	url = https://github.com/Foreglow/firefox
+[submodule "themes/discord"]
+	path = themes/discord
+	url = https://github.com/Foreglow/discord
+[submodule "themes/base16-foreglow-scheme"]
+	path = themes/base16-foreglow-scheme
+	url = https://github.com/Foreglow/base16-foreglow-scheme
