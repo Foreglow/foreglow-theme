@@ -1,8 +1,8 @@
 # Foreglow Theme
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Foreglow](https://img.shields.io/badge/Foreglow-twilight%20theme-%23F471C8)](https://github.com/Foreglow)
-[![Afterglow](https://img.shields.io/badge/Afterglow-light%20theme-%23C3228E)](https://github.com/Foreglow)
+[![Foreglow](https://img.shields.io/badge/Foreglow-dark%20%28dawn%29%20theme-%23F471C8)](https://github.com/Foreglow)
+[![Afterglow](https://img.shields.io/badge/Afterglow-light%20%28dusk%29%20theme-%23C3228E)](https://github.com/Foreglow)
 [![Alpenglow](https://img.shields.io/badge/Alpenglow-rubescent%20theme-%23FF6B9D)](https://github.com/Foreglow)
 [![Airglow](https://img.shields.io/badge/Airglow-auroral%20theme-%232EE8C8)](https://github.com/Foreglow)
 
@@ -10,8 +10,8 @@ Foreglow is a twilight-inspired theme for 400+ applications, based on real twili
 
 ## Variants
 
-- **Foreglow** — Dark theme (twilight night sky)
-- **Afterglow** — Light theme (twilight dawn sky)
+- **Foreglow** — Dark theme (dawn — the glow *before* first light)
+- **Afterglow** — Light theme (dusk — the glow *after* sunset)
 - **Alpenglow** — Dark theme, rubescent (reddish alpenglow)
 - **Airglow** — Dark theme, auroral (greenish airglow)
 
