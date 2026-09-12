@@ -149,17 +149,17 @@ Foreglow is a twilight-inspired theme for 400+ applications, based on real twili
 
 ### VS Code
 
-Search for **Foreglow Theme** in the Extensions Marketplace or install manually:
+Search for **Foreglow Theme Pack** in the Extensions Marketplace or install manually:
 
 ```bash
-code --install-extension foreglow-theme.theme-foreglow
+code --install-extension foreglow.foreglow
 ```
 
 Available variants:
-- **Foreglow Theme** — Default dark
-- **Foreglow Theme Soft** — Muted dark
-- **Afterglow Theme** — Default light
-- **Afterglow Theme Soft** — Muted light
+- **Foreglow** — Dark (dawn)
+- **Afterglow** — Light (dusk)
+- **Alpenglow** — Rubescent
+- **Airglow** — Auroral
 
 ### Vim / Neovim
 
