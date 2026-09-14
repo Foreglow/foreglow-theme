@@ -1,4 +1,10 @@
-# Foreglow Theme
+<p align="center"><img width="320" alt="foreglow-logo" src="https://github.com/user-attachments/assets/5b0f629b-9800-4c97-b23b-fa3f22681ea4" /></p>
+
+<h3 align="center">Foreglow Theme</h3>
+
+<br>
+
+<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Foreglow](https://img.shields.io/badge/Foreglow-dark%20%28dawn%29%20theme-%23F471C8)](https://github.com/Foreglow)
@@ -6,7 +12,9 @@
 [![Alpenglow](https://img.shields.io/badge/Alpenglow-rubescent%20theme-%23FF6B9D)](https://github.com/Foreglow)
 [![Airglow](https://img.shields.io/badge/Airglow-auroral%20theme-%232EE8C8)](https://github.com/Foreglow)
 
-Foreglow is a twilight-inspired theme for 400+ applications, based on real twilight sky color theory. A narrow band of cool hues (blue → violet → magenta) dominates the palette, while a small complementary wedge of warm hues (orange → gold) breaks through at the horizon — exactly what makes a sunset read as glowing rather than muddy.
+</div>
+
+Foreglow is a twilight-inspired theme, based on twilight sky colors to fit the mood of the day/night.
 
 ## Variants
 
@@ -144,61 +152,6 @@ Foreglow is a twilight-inspired theme for 400+ applications, based on real twili
 | Firefox | [Foreglow/firefox](https://github.com/Foreglow/firefox) | ✅ | ✅ |
 | Discord | [Foreglow/discord](https://github.com/Foreglow/discord) | ✅ | ✅ |
 | Base16 | [Foreglow/base16-foreglow-scheme](https://github.com/Foreglow/base16-foreglow-scheme) | ✅ | ✅ |
-
-## Installation
-
-### VS Code
-
-Search for **Foreglow Theme Pack** in the Extensions Marketplace or install manually:
-
-```bash
-code --install-extension foreglow.foreglow
-```
-
-Available variants:
-- **Foreglow** — Dark (dawn)
-- **Afterglow** — Light (dusk)
-- **Alpenglow** — Rubescent
-- **Airglow** — Auroral
-
-### Vim / Neovim
-
-```vim
-Plug 'Foreglow/vim'
-colorscheme foreglow    " dark theme
-" colorscheme afterglow  " light theme
-```
-
-### tmux
-
-Add to your `.tmux.conf`:
-
-```bash
-# Dark theme
-run-shell ~/.tmux/themes/foreglow/foreglow.tmux
-
-# Light theme
-run-shell ~/.tmux/themes/foreglow/afterglow.tmux
-```
-
-### Alacritty
-
-Copy `foreglow.yml` or `afterglow.yml` to your Alacritty config directory:
-
-```yaml
-import:
-  - /path/to/foreglow.yml    # dark
-  # - /path/to/afterglow.yml  # light
-```
-
-### Kitty
-
-Include in your `kitty.conf`:
-
-```
-include /path/to/foreglow.conf    # dark
-# include /path/to/afterglow.conf  # light
-```
 
 ## Contributing
 
